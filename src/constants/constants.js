@@ -52,7 +52,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Painting Artist",
+    title: "Professional Artist",
     icon: backend,
   },
   // {
