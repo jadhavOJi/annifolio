@@ -140,12 +140,12 @@ const technologies = [
 
 const projects = [
   {
-    name: "InkSync",
+    name: "Hawk Eye Forensic",
     description:
-      "A real-time collaborative whiteboard web application built with NextJs, Express, and Socket.io.",
+      "Cyber Forensic Investigation, Mobile Forensic Investigation & an Internationally Accredited Training & Research Center",
     features: [
-      "Users can create a room and invite others to join the room using a unique room code.",
-      "Users can draw on the whiteboard and the changes will be reflected in real-time to all the users in the room.",
+      "Trainee",
+      "Training in Questioned documents and fingerprints examination",
     ],
     tags: [
       {
