@@ -149,29 +149,16 @@ const projects = [
     ],
     tags: [
       {
-        name: "NextJs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ExpressJs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Socket.io",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Tailwind",
+        name: "Trainee",
         color: "orange-text-gradient",
       },
       {
-        name: "NodeJs",
+        name: "Questioned Documents & Fingerprints",
         color: "blue-text-gradient",
       },
     ],
     image: inkSync,
-    source_code_link: "https://github.com/himanshu8443/InkSync",
-    live_link: "https://www.inksync.cloud/",
+    live_link: "https://www.hawkeyeforensic.com/",
   },
   {
     name: "Hayasaka",
