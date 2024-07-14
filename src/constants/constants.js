@@ -100,7 +100,7 @@ const projects = [
   {
     name: "Hawk Eye Forensic",
     description:
-      "Cyber Forensic Investigation, Mobile Forensic Investigation & an Internationally Accredited Training & Research Center",
+      "Cyber Forensic Investigation & an Internationally Accredited Training & Research Center",
     features: [
       "Trainee",
       "Training in Questioned documents and fingerprints examination",
