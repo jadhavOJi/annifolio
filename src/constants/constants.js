@@ -30,15 +30,15 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "About Me",
   },
   {
     id: "work",
-    title: "Projects",
+    title: "Work",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Contact Me",
   },
 ];
 
@@ -63,66 +63,24 @@ const services = [
 
 const technologies = [
   {
-    name: "React JS",
-    icon: reactjs,
-    position: [0, 0, 0],
-  },
-  {
-    name: "Next JS",
-    icon: nextjs,
-    position: [2, 0, 0],
-  },
-  {
-    name: "Express JS",
-    icon: express,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  // {
-  //   name: "Three JS",
-  //   icon: threejs,
-  // },
-  {
-    name: "git",
+    name: "Photography",
     icon: git,
   },
   {
-    name: "HTML 5",
+    name: "Videography",
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "Painting",
     icon: css,
   },
   {
-    name: "Java",
-    icon: java,
+    name: "Investigation",
+    icon: nodejs,
   },
   {
-    name: "JWT",
-    icon: jwt,
+    name: "Fingerprinting",
+    icon: mongodb,
   },
   // {
   //   name: "NextAuth",
@@ -198,7 +156,7 @@ const projects = [
       },
     ],
     image: jobit,
-    live_link: "https://studynotion-master.vercel.app/",
+    live_link: "https://www.instagram.com/random_tasveerein_/",
   },
 ];
 
